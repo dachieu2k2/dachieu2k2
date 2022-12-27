@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 💜💜💜💜 -->
 
 <h1 align="center">Hi 👋 💜💜💜💜, I'm dachieu</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer<img src="https://media.discordapp.net/attachments/853889226386833419/902078096923066388/420705352582037514.gif" alt="dachieu2k2"/></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dachieu2k2&label=Profile%20views&color=0e75b6&style=flat" alt="dachieu2k2" /> </p>
 
