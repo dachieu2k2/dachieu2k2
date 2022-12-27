@@ -1,7 +1,7 @@
-### Hi there 👋 💜💜💜💜
+<!-- ### Hi there 👋 💜💜💜💜 -->
 
-<h1 align="center">Hi 👋, I'm hihihaha</h1>
-<h3 align="center">A frontend developer from Vietnam</h3>
+<h1 align="center">Hi 👋 💜💜💜💜, I'm dachieu</h1>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dachieu2k2&label=Profile%20views&color=0e75b6&style=flat" alt="dachieu2k2" /> </p>
 
