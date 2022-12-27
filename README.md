@@ -1,13 +1,15 @@
 <!-- ### Hi there 👋 💜💜💜💜 -->
 
 <h1 align="center">Hi 👋 💜💜💜💜, I'm dachieu</h1>
-<h3 align="center">A Full Stack Developer<img src="https://media.discordapp.net/attachments/853889226386833419/902078096923066388/420705352582037514.gif" alt="dachieu2k2"/></h3>
+<h3 align="center">A Full Stack Developer</h3>
+
+<p align="center"><img src="https://media.discordapp.net/attachments/853889226386833419/902078096923066388/420705352582037514.gif" alt="dachieu2k2"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dachieu2k2&label=Profile%20views&color=0e75b6&style=flat" alt="dachieu2k2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dachieu2k2" alt="dachieu2k2" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: hieutedam2k2@gmail.com</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/hieu.hiihihaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hieu.hiihihaha" height="30" width="40" /></a>
 </p>
