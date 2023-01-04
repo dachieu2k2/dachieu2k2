@@ -9,9 +9,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dachieu2k2" alt="dachieu2k2" /></a> </p>
 
-<h3 align="left">Connect with me: hieutedam2k2@gmail.com</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://fb.com/https://www.facebook.com/hieu.hiihihaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hieu.hiihihaha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hieu.hiihihaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hieu.hiihihaha" height="30" width="40" /></a>
+<a href="mailto:hieutedam2k2@gmail.com" target="blank"><img align="center" src="chrome://app-icon/fmgjjmmmlfnkbppncabfkddbjimcfncm/128" alt="mailto:hieutedam2k2@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
