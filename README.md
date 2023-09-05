@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 💜💜💜💜 -->
 
-<h1 align="center">Hi 👋 💜💜💜💜, I'm dachieu</h1>
-<h3 align="center">A Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm dachieu</h1>
+<h3 align="center">💜💜A Full Stack Developer💜💜</h3>
 
 <p align="center"><img src="https://media.discordapp.net/attachments/853889226386833419/902078096923066388/420705352582037514.gif" alt="dachieu2k2"/></p>
 
